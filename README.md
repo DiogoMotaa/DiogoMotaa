@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 Olá, Bem Vindo ao Meu Perfil!</h1>
 
 <h3 align="center">👩‍💻 Sobre Mim</h3>
 
@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="58" alt="linkedin logo" />
 </div>
 
 <h3 align="center">🔗 Contato</h3>
