@@ -1,5 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Data%20Engineer%20%20%7C%20%E2%9A%99%EF%B8%8F%F0%9F%9B%A2%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+</div>
+
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1OXJlcDZiNmp6djk1NG0ybjQ2N2d6b21oZm5kNDRxY2J3dmw4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM3azRqMzE2NWkxamxyMTVpYTh6bmhwNjZodWY1ejN2a254bDU2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 <h2 align="center">☕︎‧˚٠࣪⋆💻ᵎ Olá, Bem Vindo ao Meu Perfil !</h2>
@@ -45,8 +49,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoMotaa/DiogoMotaa/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DiogoMotaa/DiogoMotaa/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Data%20Engineer%20%20%7C%20%E2%9A%99%EF%B8%8F%F0%9F%9B%A2%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
