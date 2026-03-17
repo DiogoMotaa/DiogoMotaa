@@ -1,4 +1,14 @@
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1OXJlcDZiNmp6djk1NG0ybjQ2N2d6b21oZm5kNDRxY2J3dmw4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="center">☕︎‧˚٠࣪⋆💻ᵎ Olá, Bem Vindo ao Meu Perfil !</h2>
+
+###
+
+<p align="left">👩‍💻 Sobre Mim<br>Olá, eu sou Diogo Mota 👋<br><br>Sou estudante de Sistemas de Informação e estou direcionando minha carreira para a área de Engenharia de Dados.<br><br>Tenho desenvolvido projetos práticos com Python e SQL, trabalhando com limpeza, transformação e organização de dados. Meu objetivo é conquistar uma oportunidade de estágio na área de dados, com interesse especial no setor bancário.<br><br>🚀 Principais tecnologias<br>- 🐍 Python<br>- 🗄️ SQL<br>- 🐼 Pandas<br>- 🐬 MySQL<br>- 🐙 Git e GitHub<br><br>📊 O que estou desenvolvendo<br>- Pipeline de ETL para consolidação de múltiplas planilhas Excel<br>- Tratamento e padronização de dados com regras de negócio reais<br>- Estruturação de dados para análise em SQL<br>- Construção de portfólio voltado para Engenharia de Dados<br><br>🛠 Linguagens e Ferramentas</p>
 
 ###
 
@@ -16,10 +26,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">👩‍💻 Sobre Mim<br>Olá, eu sou Diogo Mota 👋<br><br>Sou estudante de Sistemas de Informação e estou direcionando minha carreira para a área de Engenharia de Dados.<br><br>Tenho desenvolvido projetos práticos com Python e SQL, trabalhando com limpeza, transformação e organização de dados. Meu objetivo é conquistar uma oportunidade de estágio na área de dados, com interesse especial no setor bancário.<br><br>🚀 Principais tecnologias<br>- 🐍 Python<br>- 🗄️ SQL<br>- 🐼 Pandas<br>- 🐬 MySQL<br>- 🐙 Git e GitHub<br><br>📊 O que estou desenvolvendo<br>- Pipeline de ETL para consolidação de múltiplas planilhas Excel<br>- Tratamento e padronização de dados com regras de negócio reais<br>- Estruturação de dados para análise em SQL<br>- Construção de portfólio voltado para Engenharia de Dados<br><br>🛠 Linguagens e Ferramentas</p>
 
 ###
 
