@@ -39,8 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
 </div>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Data%20Engineer%20%20%7C%20%E2%9A%99%EF%B8%8F%F0%9F%9B%A2%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Data%20Engineer%20%20%7C%20%E2%9A%99%EF%B8%8F%F0%9F%9B%A2%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
 <div align="center">
