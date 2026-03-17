@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="54" alt="linkedin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo" />
 </div>
 
 <h3 align="center">🔗 Contato</h3>
