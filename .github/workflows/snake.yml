@@ -1,9 +1,12 @@
-name: Generate Snake Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,13 +14,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: DiogoMotaa
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
