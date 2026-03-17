@@ -4,7 +4,7 @@
 
 <h2 align="center">☕︎‧˚٠࣪⋆💻ᵎ Olá, Bem Vindo ao Meu Perfil !</h2>
 
-<p align="left">👩‍💻 Sobre Mim<br>Olá, eu sou Diogo Mota 👋<br><br>Sou estudante de Sistemas de Informação e estou direcionando minha carreira para a área de Engenharia de Dados.<br><br>Tenho desenvolvido projetos práticos com Python e SQL, trabalhando com limpeza, transformação e organização de dados. Meu objetivo é conquistar uma oportunidade de estágio na área de dados, com interesse especial no setor bancário.<br><br>🚀 Principais tecnologias<br>- 🐍 Python<br>- 🗄️ SQL<br>- 🐼 Pandas<br>- 🐬 MySQL<br>- 🐙 Git e GitHub<br><br>📊 O que estou desenvolvendo<br>- Pipeline de ETL para consolidação de múltiplas planilhas Excel<br>- Tratamento e padronização de dados com regras de negócio reais<br>- Estruturação de dados para análise em SQL<br>- Construção de portfólio voltado para Engenharia de Dados<br><br>🛠 Linguagens e Ferramentas</p>
+<p align="left">👩‍💻 Sobre Mim<br>Olá, eu sou Diogo Mota 👋<br><br>Sou estudante de Sistemas de Informação e estou direcionando minha carreira para a área de Engenharia de Dados.<br><br>Tenho desenvolvido projetos práticos com Python e SQL, trabalhando com limpeza, transformação e organização de dados. Meu objetivo é conquistar uma oportunidade de estágio na área de dados, com interesse especial no setor bancário.<br><br>🚀 Principais tecnologias<br>- 🐍 Python<br>- 🗄️ SQL<br>- 🐼 Pandas<br>- 🐬 MySQL<br>- 🐙 Git e GitHub<br><br>📊 O que estou desenvolvendo<br>- Pipeline de ETL para consolidação de múltiplas planilhas Excel<br>- Tratamento e padronização de dados com regras de negócio reais<br>- Estruturação de dados para análise em SQL<br>- Construção de portfólio voltado para Engenharia de Dados<br><br></p>
 
 <p align="center">🔗‍️ Contato</p>
 
@@ -26,17 +26,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="49" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="49" alt="linkedin logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="51" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="51" alt="flask logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="51" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo" />
 </div>
 
 <div align="center">
