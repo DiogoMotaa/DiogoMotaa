@@ -47,12 +47,8 @@
 
 ###
 
-<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhjMHF5b2wwbDV2dXQ1NWFycmtsZ2g2bmRxbTdmY3Zjcm54bG05ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"  />
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Data%20Engineer%20%20%7C%20%E2%9A%99%EF%B8%8F%F0%9F%9B%A2%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Data%20Engineer%20%20%7C%20%E2%9A%99%EF%B8%8F%F0%9F%9B%A2%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -67,6 +63,12 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhjMHF5b2wwbDV2dXQ1NWFycmtsZ2g2bmRxbTdmY3Zjcm54bG05ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"  />
 </div>
 
 ###
